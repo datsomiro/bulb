@@ -1,0 +1,19 @@
+.off {
+
+    width: 500px;
+
+    height: 500px;
+
+    background-image: url('img/bulb-off.png');
+
+    background-repeat: no-repeat;
+
+}
+
+ 
+
+.on {
+
+    background-image: url('img/bulb-on.png');
+    transition: 4s ease;
+}
